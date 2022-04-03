@@ -22,7 +22,7 @@
 
 **Or**
 
-1. Add ```<link href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css" rel="stylesheet" type="text/css" />``` to the `<head>` of your webpage.
+1. Add ```<link href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css" rel="stylesheet" type="text/css"/>``` to the `<head>` of your webpage.
 
 ## Disclaimer
 
