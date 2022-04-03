@@ -15,7 +15,7 @@
   </a>
 </p>
 
-### How do i use this?
+## How do i use this?
 
 1. Download the latest version from [here](https://nightly.link/smintf/FontawesomePro/workflows/main/main/FontawesomePro.zip).
 2. Extract `FontawesomePro.zip` and import it like normally following the steps [here](https://fontawesome.com/docs/web/setup/get-started).
@@ -24,6 +24,6 @@
 
 1. Add ```<link href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css" rel="stylesheet" type="text/css" />``` to the `<head>` of your webpage.
 
-### Disclaimer
+## Disclaimer
 
 This is made entirely for Educational Purposes. I hold no warrenty or liability of any kind and do not endorse any misuse of the files provided.  
