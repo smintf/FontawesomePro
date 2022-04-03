@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/smintf/FontawesomePro/">
-      <img src="https://img.shields.io/github/workflow/status/smintf/FontawesomePro/nightly.link/master">
+      <img src="https://img.shields.io/github/workflow/status/smintf/FontawesomePro/nightly.link/main">
   </a>
   <a>
   <a href="https://github.com/smintf/FontawesomePro/releases/tag/v6.1.1">
@@ -17,7 +17,7 @@
 
 ### How do i use this?
 
-1. Download the latest version from [here](https://nightly.link/smintf/FontawesomePro/workflows/main/master/FontawesomePro.zip).
+1. Download the latest version from [here](https://nightly.link/smintf/FontawesomePro/workflows/main/main/FontawesomePro.zip).
 2. Extract `FontawesomePro.zip` and import it like normally following the steps [here](https://fontawesome.com/docs/web/setup/get-started).
 
 **Or**
