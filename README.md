@@ -7,11 +7,11 @@
 
 <p align="center">
   <a href="https://github.com/smintf/FontawesomePro/">
-      <img src="https://img.shields.io/github/workflow/status/smintf/FontawesomePro/nightly.link/main">
+      <img src="https://img.shields.io/github/workflow/status/smintf/FontawesomePro/nightly.link/main?label=workflow">
   </a>
   <a>
   <a href="https://github.com/smintf/FontawesomePro/releases/tag/v6.1.1">
-      <img src="https://img.shields.io/badge/version-6.1.1-blue">
+      <img src="https://img.shields.io/badge/version-6.1.1-blue?logo=fontawesome">
   </a>
 </p>
 
