@@ -13,6 +13,9 @@
   <a href="https://github.com/smintf/FontawesomePro/releases/tag/v6.1.1">
       <img src="https://img.shields.io/badge/version-6.1.1-blue?logo=fontawesome">
   </a>
+  <a href="https://opensource.org/">
+      <img src="https://img.shields.io/badge/Open%20Source-true-brightgreen">
+  </a>
 </p>
 
 ## How do i use this?
